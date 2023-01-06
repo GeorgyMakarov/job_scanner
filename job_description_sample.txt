@@ -1,0 +1,11 @@
+As a Data Scientist you will generate ML/IA models for predictive analysis for an energy sector customer. You will collaborate with Data Scientist, Data Engineers and Data Visualization profiles to achieve project and client goals on a very dynamic environment.
+As a Data Scientist, you will work on the design, selection and evaluation of ML/IA models for predictive analysis.
+Master or PhD degree on Statistics, Maths, Informatics or similar.
+Experience on statistics and ML/IA modelling: regression and classification problems, temporal series, decision trees.
+You will have experience on: R or Python
+Knowledge of distributed computation: Map Reduce, Hadoop, Hive, Spark
+Spanish communication skills
+Knowledge of DB (SQL and non SQL)
+Knowledge of visualization techniques: Periscope, Business Objects, D3, ggplot
+Hands on deep learning (tensorflow, keras, pytorch)
+English skill is a plus.

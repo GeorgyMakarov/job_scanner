@@ -1,0 +1,30 @@
+Data scientist with strong practical background and 5+ years of experience. Work with data using forecasting, classification algorithms and deep learning to solve challenging business problems. Moved into data science after 10 years of holding management positions in automotive manufacturing and sustainable forestry.
+PROFESSIONAL EXPERIENCE
+R Shiny Developer  – UBS Bank, Poland						         November 2020 – Present 
+Designed and deployed SQL – R – Shiny Azure cloud-based application for low-cost scalable risk data analysis of statistical models which reduced risk reporting cost by 50 percent  – stack: R, PostgresSQL
+Researched and released Long Short-Term Memory model improving performance of SQL queries related to risk analysis and allowing to improve reporting time from 5 to 3 days – stack: Python, Keras
+Developed and maintained proprietary R libraries for data analysis to share and scale best practices in statistical risk modeling across teams enabling operating expense reduction by 3 percent year-on-year – stack: R
+Data Scientist – Sreda Software Solutions, Russia				         November 2019 – November 2020
+Achieved 5 percent year-on-year revenue growth of car sharing company based on machine learning models for dynamic insurance pricing accounting for driver’s behaviour – stack: Python
+Added new feature which allowed car sharing drivers to mitigate on route risk by deploying ensemble random forest model for road conditions classification based on risk of road accident – stack: R
+Used unsupervised learning to interpolate geospatial coordinates and reduce noise and data clutter which resulted in significant reduction of machine time required for training new models – stack: Python
+Data Scientist  – Eastwood Sawmill, Russia					        September 2017 – November 2019
+Integrated genetic algorithm with workload reports to find optimal product combinations allowing production output to increase by 40 percent year-on-year – stack: R, MySQL
+Developed Markov Chains Monte Carlo model estimating time to failure of manufacturing process, which resulted in 15 percent quarter-on-quarter increase of operational earnings – stack: Python, R
+Achieved 20 percent improvement of inventory turnover by simplifying computations of projected inventories using R instead of Excel – stack: R, PowerBI
+EDUCATION
+PhD Statistics and Econometrics, St. Petersburg State University of Economics			     2002 – 2013
+Focused on data driven real investment decisions using statistical methods to consider multiple uncertainties
+Part-time assistant professor teaching statistical inference and applied data driven management
+Collaboratively developed ARIMA model of real estate pricing applied in city-planning process
+SKILLS
+Programming: python, R, SQL, Bash, PowerShell
+Hard skills: Big Data, Spark, Databricks, Git, Data Visualization
+Soft skills: Research Design, Mentoring, Public Speaking, Agile, Communication to External Stakeholders
+Data science:  Forecasting, Regression, Decision Tree, Random Forest, Classification, Deep Learning
+Packages: TensorFlow, Keras, PySpark
+Languages: Russian, English, Polish
+CERTIFICATES
+TensorFlow Developer Specialization – DeepLearning.AI, 2022
+Deep Learning Specialization – DeepLearning.AI, 2021
+Data Science Specialization – Johns Hopkins University, 2020
