@@ -1,5 +1,3 @@
-invisible(lapply(readLines('dependencies.txt'), library, character.only = T))
-
 #' Read Lines
 #' 
 #' This function reads lines of a txt file and eliminates empty lines from it.
