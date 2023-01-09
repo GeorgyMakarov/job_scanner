@@ -3,5 +3,3 @@ shinydashboard
 readr
 dplyr
 tidyr
-future
-promises

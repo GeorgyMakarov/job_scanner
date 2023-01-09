@@ -87,6 +87,10 @@ server <- function(input, output, session){
       pull(value) %>% 
       unique(.)
     
+    # Add custom stop words
+    custom_stop_words <- readLines('./Maps/custom_stop_words.txt')
+    stop_words <- c(stop_words, custom_stop_words)
+    
     merged_dt <- merged_dt[!(words %in% stop_words)]
     r$raw_dt  <- merged_dt
     

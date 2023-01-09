@@ -2,7 +2,7 @@ Data scientist with strong practical background and 5+ years of experience. Work
 PROFESSIONAL EXPERIENCE
 R Shiny Developer  – UBS Bank, Poland						         November 2020 – Present 
 Designed and deployed SQL – R – Shiny Azure cloud-based application for low-cost scalable risk data analysis of statistical models which reduced risk reporting cost by 50 percent  – stack: R, PostgresSQL
-Researched and released Long Short-Term Memory model improving performance of SQL queries related to risk analysis and allowing to improve reporting time from 5 to 3 days – stack: Python, Keras
+Researched and generated Long Short-Term Memory model improving performance of SQL queries related to risk analysis and allowing to improve reporting time from 5 to 3 days – stack: Python, Keras
 Developed and maintained proprietary R libraries for data analysis to share and scale best practices in statistical risk modeling across teams enabling operating expense reduction by 3 percent year-on-year – stack: R
 Data Scientist – Sreda Software Solutions, Russia				         November 2019 – November 2020
 Achieved 5 percent year-on-year revenue growth of car sharing company based on machine learning models for dynamic insurance pricing accounting for driver’s behaviour – stack: Python
